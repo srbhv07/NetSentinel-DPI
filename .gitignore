@@ -3,7 +3,5 @@
 out/
 target/
 *.class
-
 *.jar
 *.pcap
-
